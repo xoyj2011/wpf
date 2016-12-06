@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.Step.WPF.Controls", "L.Step.WPF.Controls\L.Step.WPF.Controls.csproj", "{891EB75C-7B1B-4A9C-BEF6-BEDA4CC7DC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControls", "TestControls\TestControls.csproj", "{5FCF7581-184D-4E6E-B2D5-0C73569EF974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{891EB75C-7B1B-4A9C-BEF6-BEDA4CC7DC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891EB75C-7B1B-4A9C-BEF6-BEDA4CC7DC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891EB75C-7B1B-4A9C-BEF6-BEDA4CC7DC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891EB75C-7B1B-4A9C-BEF6-BEDA4CC7DC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCF7581-184D-4E6E-B2D5-0C73569EF974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCF7581-184D-4E6E-B2D5-0C73569EF974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCF7581-184D-4E6E-B2D5-0C73569EF974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCF7581-184D-4E6E-B2D5-0C73569EF974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

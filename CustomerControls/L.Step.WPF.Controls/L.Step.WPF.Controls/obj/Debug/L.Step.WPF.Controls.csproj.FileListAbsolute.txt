@@ -1,0 +1,12 @@
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\L.Step.WPF.Controls_MarkupCompile.cache
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\L.Step.WPF.Controls_MarkupCompile.lref
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\L.Step.WPF.Controls.dll
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\L.Step.WPF.Controls.pdb
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\bin\Debug\L.Step.WPF.Controls.dll
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\bin\Debug\L.Step.WPF.Controls.pdb
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\Themes\ImageButtonStyle.baml
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\L.Step.WPF.Controls.g.resources
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\L.Step.WPF.Controls.Properties.Resources.resources
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\L.Step.WPF.Controls.csproj.GenerateResource.Cache
+G:\WPFProject\L.Step.WPF.Controls\L.Step.WPF.Controls\obj\Debug\L.Step.WPF.Controls.csprojResolveAssemblyReference.cache

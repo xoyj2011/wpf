@@ -1,0 +1,12 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:L.Step.WPF.Controls;assembly=L.Step.WPF.Controls" x:Class="TestControls.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas>
+        <controls:ImageButton Canvas.Left="174" Canvas.Top="179" Height="100" Width="100"
+                              NormalImage="/TestControls;component/resources/normal.png"
+                              MouseOverImage="/TestControls;component/resources/over.png"
+                              MouseDownImage="/TestControls;component/resources/down.png" Click="ImageButton_Click"/>
+    </Canvas>
+</Window>

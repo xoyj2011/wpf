@@ -1,0 +1,15 @@
+G:\WPFProject\L.Step.WPF.Controls\TestControls\bin\Debug\TestControls.exe.config
+G:\WPFProject\L.Step.WPF.Controls\TestControls\bin\Debug\TestControls.exe
+G:\WPFProject\L.Step.WPF.Controls\TestControls\bin\Debug\TestControls.pdb
+G:\WPFProject\L.Step.WPF.Controls\TestControls\bin\Debug\L.Step.WPF.Controls.dll
+G:\WPFProject\L.Step.WPF.Controls\TestControls\bin\Debug\L.Step.WPF.Controls.pdb
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\TestControls.csprojResolveAssemblyReference.cache
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\MainWindow.baml
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\MainWindow.g.cs
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\App.g.cs
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\TestControls_MarkupCompile.cache
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\TestControls.g.resources
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\TestControls.Properties.Resources.resources
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\TestControls.csproj.GenerateResource.Cache
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\TestControls.exe
+G:\WPFProject\L.Step.WPF.Controls\TestControls\obj\Debug\TestControls.pdb
